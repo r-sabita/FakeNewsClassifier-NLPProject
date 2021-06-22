@@ -25,3 +25,9 @@
   * Use stemming for Fakenews classifier
 
 ************************************************
+4. Build fake_news_classifier Model using LSTM
+
+************************************************
+5. Build fake_news_classifier Model using Bidirectional LSTM
+
+***************************************************
